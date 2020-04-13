@@ -4,6 +4,8 @@ bin/
 .project
 .classpath
 .settings/
+.idea/
+*.iml
 
 # Package Files #
 *.jar
